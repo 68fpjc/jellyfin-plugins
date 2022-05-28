@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "aa93bc86-2b92-4139-aa56-7cc83c282a32",
+        "name": "EPGStation",
+        "description": "Get metadata for video files recorded with EPGStation",
+        "overview": "EPGStation metadata provider",
+        "owner": "68fpjc",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Initial release",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://raw.githubusercontent.com/68fpjc/jellyfin-plugins/main/epgstation/epgstation_1.0.0.0.zip",
+                "checksum": "ae3672aa4b47084a2b6f7d6a20e46d46",
+                "timestamp": "2022-05-28T00:04:20Z"
+            }
+        ]
+    }
+]
