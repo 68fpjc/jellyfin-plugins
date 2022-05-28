@@ -1,1 +1,1 @@
-# jellyfin-plugins
+# 68fpjc's Jellyfin Plugins
