@@ -8,6 +8,14 @@
         "category": "Metadata",
         "versions": [
             {
+                "version": "1.2.1.0",
+                "changelog": "RecordedId\u306b\u3088\u308b\u691c\u7d22\u3092\u5b9f\u88c5",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://raw.githubusercontent.com/68fpjc/jellyfin-plugins/main/epgstation/epgstation_1.2.1.0.zip",
+                "checksum": "724cebcad37c5c66546813186104dfa8",
+                "timestamp": "2022-08-22T14:57:15Z"
+            },
+            {
                 "version": "1.2.0.0",
                 "changelog": "\u52d5\u4f5c\u74b0\u5883\u3092Jellyfin 10.8\u4ee5\u964d\u3068\u3059\u308b",
                 "targetAbi": "10.8.0.0",
