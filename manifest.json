@@ -8,6 +8,14 @@
         "category": "Metadata",
         "versions": [
             {
+                "version": "1.4.0.1",
+                "changelog": "Regenerate OpenAPI Client",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://raw.githubusercontent.com/68fpjc/jellyfin-plugins/main/epgstation/epgstation_1.4.0.1.zip",
+                "checksum": "ef257810dbdae8fdbe5aedf3e07d5591",
+                "timestamp": "2025-10-21T02:37:26Z"
+            },
+            {
                 "version": "1.4.0.0",
                 "changelog": "Support Jellyfin 10.11",
                 "targetAbi": "10.11.0.0",
